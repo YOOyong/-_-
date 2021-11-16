@@ -1,4 +1,4 @@
-# K_data_bigdata_courses  
+# Onestore_customer_prediction 
 **2020 데이터 청년 캠퍼스 / 원스토어 산학협력 프로젝트.**
 
 ## 프로젝트 기간
