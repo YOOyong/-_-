@@ -8,3 +8,4 @@
 ### 산학협력 프로젝트 기업  
 - 원스토어  
 
+<embed src="onestore_customer_predict.pdf" type="application/pdf">
