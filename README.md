@@ -9,5 +9,5 @@
 - 원스토어  
 
 
-![](/pdf_img/pdf_img.jpg)
+![](/pdf_img.jpg)
 
